@@ -85,8 +85,4 @@ Each employee has a **Delete** button. On click:
 Developed by **Jeba Parvin** 💻  
 Learning Frontend Development at **AccioJob** 🚀
 
----
 
-## 📎 License
-
-This project is open-source and free to use.
